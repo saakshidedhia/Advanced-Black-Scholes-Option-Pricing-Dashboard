@@ -15,7 +15,12 @@ A comprehensive, interactive web application for **European option pricing** usi
 > Quick peek of the dashboard in action.
 
 ![Dashboard Overview](assets/1.png)
-
+![Dashboard Overview](assets/2.png)
+![Dashboard Overview](assets/3.png)
+![Dashboard Overview](assets/4.png)
+![Dashboard Overview](assets/5.png)
+![Dashboard Overview](assets/7.png)
+![Dashboard Overview](assets/6.png)
 ---
 
 
