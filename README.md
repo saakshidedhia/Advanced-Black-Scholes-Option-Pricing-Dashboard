@@ -257,6 +257,7 @@ This application is for **educational and research purposes only**. It should no
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ for the finance and technology community</strong></p>
+  <p><strong>Built with ❤️ by Saakshi Dedhia for the finance and technology community</strong></p>
   <p>If you find this project useful, please consider giving it a ⭐ on GitHub!</p>
 </div>
+
