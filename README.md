@@ -7,6 +7,18 @@
 
 A comprehensive, interactive web application for **European option pricing** using the enhanced Black-Scholes-Merton model. This advanced dashboard provides real-time option valuation, Greeks calculation, sensitivity analysis, and Monte Carlo simulations with a modern, intuitive interface.
 
+
+---
+
+## 📸 Demo Preview
+
+> Quick peek of the dashboard in action.
+
+![Dashboard Overview](assastes/1.png)
+
+---
+
+
 ## ✨ Key Features
 
 ### 🧮 Core Functionality
