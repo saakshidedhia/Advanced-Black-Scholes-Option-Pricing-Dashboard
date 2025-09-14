@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/your-username/advanced-blackscholes/issues)
 - **Email**: sakshidedhia07@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/saakshi-dedhia/)
+- **LinkedIn**: [https://www.linkedin.com/in/saakshi-dedhia/](https://www.linkedin.com/in/saakshi-dedhia/)
 
 ## 🙏 Acknowledgments
 
